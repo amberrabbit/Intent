@@ -1,10 +1,10 @@
-�C���e���g
-�����̃A�v���P�[�V������Activity���Ȃ���˂����݂����Ȃ��́B
-Activity�����w�肵����͖̂����I�A
-���삾����Activity���w�肵�Ȃ��̂��ÖٓI�A
-�Ƃ����Q��ނ�����B
+﻿インテント
+複数のアプリケーションやActivityをつなげる架け橋みたいなもの。
+Activity名を指定しするのは明示的、
+動作だけでActivityを指定しないのが暗黙的、
+という２種類がある。
 
-�Ⴆ��ƁA�����Iintent�͋��ŁA
-�ÖٓIintent�́A�����̒��ɃA���t�@�x�b�g���̐l�����āA
-�e�����߂�ꂽ�A���t�@�x�b�g���o���Ă���A
-�w�����ꂽ�玩���̃A���t�@�x�b�g�������悤�Ȃ��́B
+例えると、明示的intentは橋で、
+暗黙的intentは、教室の中にアルファベット分の人がいて、
+各自きめられたアルファベットを覚えており、
+指名されたら自分のアルファベットを言うようなもの。
